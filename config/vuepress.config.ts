@@ -60,6 +60,10 @@ export default defineUserConfig({
               text: '6 Protocols',
               link: '/cli-documentation/protocols.md',
             },
+            {
+              text: '7 Progress meter',
+              link: '/cli-documentation/progress-meter.md',
+            },
           ],
         },
       },
