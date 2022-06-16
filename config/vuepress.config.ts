@@ -68,6 +68,10 @@ export default defineUserConfig({
               text: '8 Options',
               link: '/cli-documentation/options.md',
             },
+            {
+              text: '9 Files',
+              link: '/cli-documentation/files.md',
+            },
           ],
         },
       },
