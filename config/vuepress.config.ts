@@ -76,6 +76,10 @@ export default defineUserConfig({
               text: '10 Environment',
               link: '/cli-documentation/environment.md',
             },
+            {
+              text: '11 Proxy protocol prefixes',
+              link: '/cli-documentation/proxy-protocol-prefixes.md',
+            },
           ],
         },
       },
