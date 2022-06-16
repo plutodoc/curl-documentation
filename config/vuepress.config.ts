@@ -72,6 +72,10 @@ export default defineUserConfig({
               text: '9 Files',
               link: '/cli-documentation/files.md',
             },
+            {
+              text: '10 Environment',
+              link: '/cli-documentation/environment.md',
+            },
           ],
         },
       },
