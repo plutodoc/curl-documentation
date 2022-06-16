@@ -52,6 +52,10 @@ export default defineUserConfig({
               text: '4 Url',
               link: '/cli-documentation/url.md',
             },
+            {
+              text: '5 Output',
+              link: '/cli-documentation/output.md',
+            },
           ],
         },
       },
