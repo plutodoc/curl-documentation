@@ -48,6 +48,10 @@ export default defineUserConfig({
               text: '3 Description',
               link: '/cli-documentation/description.md',
             },
+            {
+              text: '4 Url',
+              link: '/cli-documentation/url.md',
+            },
           ],
         },
       },
