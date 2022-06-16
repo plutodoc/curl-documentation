@@ -80,6 +80,10 @@ export default defineUserConfig({
               text: '11 Proxy protocol prefixes',
               link: '/cli-documentation/proxy-protocol-prefixes.md',
             },
+            {
+              text: '12 Exit codes',
+              link: '/cli-documentation/exit-codes.md',
+            },
           ],
         },
       },
