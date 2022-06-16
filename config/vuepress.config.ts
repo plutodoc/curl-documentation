@@ -64,6 +64,10 @@ export default defineUserConfig({
               text: '7 Progress meter',
               link: '/cli-documentation/progress-meter.md',
             },
+            {
+              text: '8 Options',
+              link: '/cli-documentation/options.md',
+            },
           ],
         },
       },
