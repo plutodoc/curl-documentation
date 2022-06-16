@@ -1,0 +1,3 @@
+# Synopsis
+
+curl [options / URLs]
