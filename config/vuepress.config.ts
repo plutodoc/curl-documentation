@@ -56,6 +56,10 @@ export default defineUserConfig({
               text: '5 Output',
               link: '/cli-documentation/output.md',
             },
+            {
+              text: '6 Protocols',
+              link: '/cli-documentation/protocols.md',
+            },
           ],
         },
       },
