@@ -44,6 +44,10 @@ export default defineUserConfig({
               text: '2 Synopsis',
               link: '/cli-documentation/synopsis.md',
             },
+            {
+              text: '3 Description',
+              link: '/cli-documentation/description.md',
+            },
           ],
         },
       },
